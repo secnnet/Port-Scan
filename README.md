@@ -1,3 +1,5 @@
+# Port Scan
+
 This PowerShell script is designed to check for open ports on a local machine. Here's a summary of how it works:
 
 It creates an array of commonly used port numbers ($ports) in computer networks. These ports are often targeted by attackers looking for vulnerable systems.
