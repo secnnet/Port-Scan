@@ -12,4 +12,4 @@ If the port is open, the script outputs a message indicating that the port is op
 
 If the port is closed, the script outputs a message indicating that the port is closed.
 
-By running this script, you can quickly identify open ports on your local machine and take steps to secure any open ports that are not necessary for your system to function.
+By running this script, you can quickly identify open ports on your local machine and take steps to secure any open ports that are not necessary for your system to function. 😊 
